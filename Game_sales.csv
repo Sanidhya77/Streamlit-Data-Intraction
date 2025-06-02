@@ -1,0 +1,21 @@
+Date,City,Game_Type,Units_Sold,Revenue
+2024-01-01,New York,Action,120,7200
+2024-01-01,Los Angeles,RPG,100,6000
+2024-01-02,New York,Sports,80,4800
+2024-01-02,Chicago,Action,90,5400
+2024-01-03,Los Angeles,Action,110,6600
+2024-01-03,Houston,RPG,70,4200
+2024-01-04,Chicago,Sports,60,3600
+2024-01-04,Houston,Action,85,5100
+2024-01-05,Phoenix,Strategy,95,5700
+2024-01-05,Philadelphia,RPG,105,6300
+2024-01-06,San Antonio,Sports,75,4500
+2024-01-06,San Diego,Action,130,7800
+2024-01-07,Dallas,Strategy,88,5280
+2024-01-07,San Jose,RPG,92,5520
+2024-01-08,Austin,Action,115,6900
+2024-01-08,Jacksonville,Sports,77,4620
+2024-01-09,Fort Worth,Strategy,68,4080
+2024-01-09,Columbus,RPG,73,4380
+2024-01-10,Charlotte,Action,102,6120
+2024-01-10,Indianapolis,Sports,97,5820
